@@ -1,5 +1,6 @@
 """
 https://stackoverflow.com/questions/5773607/python-what-is-the-most-efficient-way-to-generate-padding
+https://pycryptodome.readthedocs.io/en/latest/src/cipher/classic.html#cbc-mode
 """
 
 from Crypto.Cipher import AES
