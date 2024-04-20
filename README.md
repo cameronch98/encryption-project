@@ -25,13 +25,13 @@ pip install -r requirements.txt
 To run the weak collision experiment, we can enter one of the following:
 
 ```
-python find-key.py
+python find_key.py
 ```
 ```
-python3 find-key.py
+python3 find_key.py
 ```
 ```
-<name-for-venv>/bin/python find-key.py
+<name-for-venv>/bin/python find_key.py
 ```
 
 # Usage
