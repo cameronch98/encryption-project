@@ -22,7 +22,7 @@ Now that the virtual environment is enabled in the terminal, we need to install 
 pip install -r requirements.txt
 ```
 
-To run the weak collision experiment, we can enter one of the following:
+To run the experiment, we can enter one of the following:
 
 ```
 python find_key.py
